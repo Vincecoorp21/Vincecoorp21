@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincecoorp21&label=Profile%20views&color=0e75b6&style=flat" alt="vincecoorp21" /> </p>
 
-- 🔭 I’m currently working on [an Ecommerce Shop with Re](https://github.com/Vincecoorp21/frontend-ecommerce-2.0)
+- 🔭 I’m currently working on [Ecommerce Shop React](https://github.com/Vincecoorp21/frontend-ecommerce-2.0)
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vincecoorp21](https://github.com/Vincecoorp21)
+- 👨‍💻 All of my projects are available at [my Github](https://github.com/Vincecoorp21)
 
 - 📫 How to reach me **vibarcar@gmail.com**
 
