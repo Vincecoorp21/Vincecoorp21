@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm VinceBC</h1>
-<h3 align="center">A Frontend Developer Student & Product Manager</h3>
+<h3 align="center">A Frontend Developer & Product Manager</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vincecoorp21&label=Profile%20views&color=0e75b6&style=flat" alt="vincecoorp21" /> </p>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Fullstack Developer with more than 6 years of experience as Product Manager in an international environment.
 
-- 👨‍💻 All of my projects are available at [my Github](https://github.com/Vincecoorp21)
+I'm positive, empathetic and passionate about new technologies and sports. Constantly evolving and never stop learning.
+
+People who know me say that I'm a problem solver, and I'm always willing to help my colleagues.
+
+If you think we can have things in common or create synergies do not hesitate to contact me.
+
+- 👨‍💻 All of my projects are available at [my Portfolio](https://vincebc.netlify.app/)
 
 - 📫 How to reach me **vibarcar@gmail.com**
 
